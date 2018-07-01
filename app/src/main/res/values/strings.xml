@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notify</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_atv_places">Type in....</string>
+    <string name="tvs">Wait...</string>
+    <string name="current">Nearby Location :</string>
+    <string name="okay">OK</string>
+    <string name="distan">Distance</string>
+    <string name="noti">Notify Me :</string>
+    <string name="dest">Destination:</string>
+    <string name="notime">Notify Me</string>
+    <string name="stop">Stop</string>
+    <string name="inmap">See In Map</string>
+    <string name="off">Offline Alert</string>
+    <string name="dur">Duration</string>
+    <string-array name="prenot">
+        <item>Before 0.5Km</item>
+        <item>Before 1Km</item>
+        <item>Before 1.5Km</item>
+        <item>Before 2.0Km</item>
+        <item>Before 2.5Km</item>
+    </string-array>
+</resources>
